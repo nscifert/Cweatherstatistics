@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1572892768 source:c:\users\nscif\documents\computer science 1\hw 3 weather statstics\main.cpp
+	<iostream>
+	<iomanip>
+	<string.h>
+
